@@ -78,8 +78,9 @@ We present a **Smart AI Nutrition Assistant** that:
 ---
 
 ## 📽️ Project Screenshots
+<img width="1919" height="966" alt="Screenshot 2025-08-04 225943" src="https://github.com/user-attachments/assets/9ff11eb6-c934-4e10-ad28-64affb81ac50" />
 
-> _Add screenshots here showing: prompt lab setup, sample output, UI demo if any._
+<img width="923" height="864" alt="Screenshot 2025-08-04 225158" src="https://github.com/user-attachments/assets/8d2df4ca-9513-4fd6-addd-b10ab4352471" />
 
 ---
 
